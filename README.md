@@ -1,4 +1,4 @@
-# angularjs-requirejs-seed
+# angularjs-requirejs-bootstrap-seed
 
 This is an AngularJS with RequireJs and Bootstrap seed. I had not found any seed that was really
 working well so I decided to make one from the original angular-seed. I didn't update the README
