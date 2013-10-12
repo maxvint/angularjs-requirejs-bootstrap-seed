@@ -1,0 +1,7 @@
+<label><input type="checkbox" ng-model="caseSensitive"> Case Sensitive?</label>
+<input placeholder="Enter some text to highlight" value="you" ng-model="highlightText">
+<p ng-bind-html-unsafe="'Hello there, how are you today? I\'m fine thank you.' | highlight:highlightText:caseSensitive"></p>
+ 
+<style>
+.ui-match { background: yellow; }
+</style>

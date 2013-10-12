@@ -1,0 +1,11 @@
+{
+  "name": "angualrjs-requirejs-seed",
+  "description": "The best starter project for angular.js with require.js",
+  "devDependencies": {
+        "phantomjs" : "*",
+        "karma" : "*",
+        "karma-junit-reporter" : "*",    
+        "karma-jasmine" : "*",
+        "karma-ng-scenario" : "*"
+    }
+}
