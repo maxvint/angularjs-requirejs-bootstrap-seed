@@ -1,8 +1,8 @@
 # angularjs-requirejs-seed
 
-This is an AngularJS with RequireJs seed. I had not found any seed that was really working well so
-I decided to make one from the original angular-seed. I didn't update the README so, Luke, read
-the code!
+This is an AngularJS with RequireJs and Bootstrap seed. I had not found any seed that was really
+working well so I decided to make one from the original angular-seed. I didn't update the README
+so, Luke, read the code!
 
 # angular-seed — the seed for AngularJS apps
 
